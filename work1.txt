@@ -15,4 +15,4 @@ main ㄱㄱ
 
 check main
 
-exp2 만들었음
+버그남??
